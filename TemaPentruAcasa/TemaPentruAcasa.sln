@@ -5,7 +5,11 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemaPentruAcasa14", "TemaPentruAcasa\TemaPentruAcasa14.csproj", "{A4486ADA-A5D6-4B71-A668-062E11C50938}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemaPentruAcasa14-2", "TemaPentruAcasa14-2\TemaPentruAcasa14-2.csproj", "{8C453499-763C-40B9-A21C-64F241037FD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemaPentruAcasa14-2", "TemaPentruAcasa14-2\TemaPentruAcasa14-2.csproj", "{8C453499-763C-40B9-A21C-64F241037FD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tema15", "Tema15", "{CB3F309F-8FB4-45F6-A17A-BC3FD891BEE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema15.1", "Problema15.1\Problema15.1.csproj", "{63CAEA14-856C-4A39-8656-292C94587BA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,9 +25,16 @@ Global
 		{8C453499-763C-40B9-A21C-64F241037FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C453499-763C-40B9-A21C-64F241037FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C453499-763C-40B9-A21C-64F241037FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CAEA14-856C-4A39-8656-292C94587BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CAEA14-856C-4A39-8656-292C94587BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CAEA14-856C-4A39-8656-292C94587BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CAEA14-856C-4A39-8656-292C94587BA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63CAEA14-856C-4A39-8656-292C94587BA0} = {CB3F309F-8FB4-45F6-A17A-BC3FD891BEE9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {87984A1E-A4F8-4E90-8FE3-F7ECFBC06AE8}
