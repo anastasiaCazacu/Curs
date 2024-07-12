@@ -1,8 +1,8 @@
 ﻿namespace TemaPentruAcasa14_2
 {
-    class Book : LibraryItem
+    class Magazine : LibraryItem
     {
-        public Book(string title, string author, int publicationYear)
+        public Magazine(string title, string author, int publicationYear)
             : base(title, author, publicationYear)
         {
         }
